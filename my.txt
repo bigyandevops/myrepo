@@ -2,6 +2,4 @@ my name
 bangalore
 
 devops engineer
-11 lac
-jkl
-lko
+15 lac salary
